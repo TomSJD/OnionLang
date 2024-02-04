@@ -1,0 +1,6 @@
+int number = 0;
+
+while (number < 10) {
+	Write(number);
+	number = number + 1;
+}
